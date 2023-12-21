@@ -1,5 +1,4 @@
 # Scaffoldとcssbundling-railsを使った簡単なToDo
-プログラムを一切書かずに綺麗なアプリが作れる．
 
 ## プロジェクトを作成
 ```bash
